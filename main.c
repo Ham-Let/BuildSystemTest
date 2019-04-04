@@ -13,5 +13,6 @@ int main(void)
 	//add comment 4
 	int i = 0;
 	int j = 1;
+	int k = 2
 	return 0;
 }
